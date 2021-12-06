@@ -1,3 +1,4 @@
+https://practical-tereshkova-9c201b.netlify.app - correct link for deployment
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
