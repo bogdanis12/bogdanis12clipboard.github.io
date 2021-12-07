@@ -1,3 +1,5 @@
+The right link for deployment is: https://admiring-lewin-a15c0f.netlify.app
+I don't understand why github don't took my images
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
